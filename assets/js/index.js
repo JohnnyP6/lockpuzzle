@@ -118,7 +118,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // Asignar las imágenes a los fondos
-    document.getElementById('intro-screen').style.backgroundImage = `url(/assets/img/puerta-cerrada.png)`;
-    document.getElementById('puzzle-screen').style.backgroundImage = `url(/assets/img/candado.png)`;
-    document.getElementById('success-screen').style.backgroundImage = `url(/assets/img/puerta-abierta.png)`;
+    document.getElementById('intro-screen').style.backgroundImage = `url(assets/img/puerta-cerrada.png)`;
+    document.getElementById('puzzle-screen').style.backgroundImage = `url(assets/img/candado.png)`;
+    document.getElementById('success-screen').style.backgroundImage = `url(assets/img/puerta-abierta.png)`;
 });
